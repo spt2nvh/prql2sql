@@ -1,0 +1,18 @@
+dept_code,dept_name,num_staff,num_students,budget
+varchar(5),varchar(25),int(4),int(4),int(9)
+BIOL,Biology,108,223,230000
+BUS,Business,45,143,200000
+CHEM,Chemistry,25,86,120000
+CS,Computer Science,40,170,190000
+ECON,Economics,50,150,200000
+ENGL,English,24,204,16000
+HIST,History,12,50,60000
+IT,Information Technology,46,200,200000
+LFIT,Fitness,16,245,18000
+MATH,Mathematics,20,101,120000
+MUSI,Music,17,63,70000
+NUTR,Nutrition,15,45,70000
+PSYC,Psychology,34,90,90000
+STAT,Statistics,13,68,100000
+SPAN,Spanish,10,40,50000
+ENGL,English,13,48,50000

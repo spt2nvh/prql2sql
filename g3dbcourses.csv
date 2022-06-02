@@ -1,0 +1,30 @@
+course_id,course_title,dept_code,credits
+varchar(10),varchar(40),varchar(5),int(1)
+BIOL101,Principles of Biology,BIOL,3
+BIOL101L,Intro Biology Laboratory,BIOL,1
+BIOL252,Anatomy and Physiology,BIOL,3
+CHEM261,Analytical Chemistry,CHEM,4
+CHEM241,Organic Chemistry,CHEM,4
+CS310,Data Structures,CS,3
+CS126,Intro to Web Design and Development,CS,3
+CS110,Intro to Data Science,CS,3
+CS116,Intro to Scientific Programming,CS,3
+ECON125,Intro to Entrepreneurship,ECON,3
+ECON420,Intermediate Macroeconomics,ECON,3
+ENGL105,First Year Writing,ENGL,3
+HIST335,The First World War,HIST,3
+HIST145,World War II and Before,HIST,3
+IT214,Databases,IT,3
+LFIT115,Strength Training,LFIT,1
+LFIT200,Swimming,LFIT,1
+MATH231,Calculus I,MATH,4
+MATH232,Calculus II,MATH,4
+MATH381,Discrete Mathematics,MATH,3
+MUSI144,Classical Music I,MUSI,3
+PSYC266,Intro to Social Psychology,PSYC,3
+SPAN101,Intro to Spanish,SPAN,3
+SPAN201,Intermediate Spanish,SPAN,3
+STAT155,Statistics and Operations Research,STAT,3
+STAT472,Statistical Learning,STAT,3
+BUS101,Introduction to Business,BUS,3
+NUTR201,Dieting,NUTR,3

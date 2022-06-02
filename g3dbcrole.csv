@@ -1,0 +1,18 @@
+student_id,club_id,role
+int(3),int(3),varchar(20)
+3,4,President
+10,4,Member
+5,4,Member
+1,6,Member
+7,6,Vice President
+10,1,Member
+2,1,President
+1,1,Member
+8,1,Member
+2,9,Secretary
+4,9,Member
+11,9,Member
+18,9,Member
+20,2,President
+19,2,Vice President
+16,2,Member

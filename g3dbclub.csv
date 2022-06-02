@@ -1,0 +1,11 @@
+club_id,num_members,club_name,description ( ? )
+int(3),int(4),varchar(25),varchar()
+1,23,The Math Wizards,The math olympiads of the school
+2,39,Computational Data Sciences,"Networking for CS, STAT, and CDS majors"
+3,16,Physics and Astronomy Club,Participate in physics and astronomy related projects
+4,30,Club Running,Club sport for running
+5,223,University Programs Council,Student-run programming board
+6,45,Alternative Spring Break,Conducts service projects during spring break
+7,125,Cavalier Daily,Student newspaper
+8,12,Green Grounds,Dedicated to educating and advocating for sustainabilty
+9,355,Madison House,Volunteer center for students
